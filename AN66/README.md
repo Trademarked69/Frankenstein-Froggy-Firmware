@@ -1,5 +1,5 @@
-# Building SF2000 1.6 Multicore on AN66
-The bisrv in this folder is stock sf2000 1.6 with patched the buttons and screen. The buttons are the same as DY19 and the screen is the same as GB300.  
+# SF2000 1.6 on AN66
+**bisrv_SF2000_1.6_to_AN66.asd** is stock sf2000 1.6 with patched buttons and screen for AN66. The buttons are the same as DY19 and the screen is the same as GB300.  
 Methodology to make this bisrv:  
 - Start with SF2000 1.6 firmware with GB300 screen swap
 - Get the binary diffrence between SF2000 1.6 firmware on DY19 and the [SF2000 1.6 original firmware](https://github.com/Dteyn/Datafrog_SF2000_Vanilla/releases/tag/v1.6) to get the button patch
