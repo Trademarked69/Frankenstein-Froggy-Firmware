@@ -6,4 +6,4 @@ Methodology to make this bisrv:
 - Use the diff above to patch the SF2000 1.6 firmware with GB300 screen swap
 - As always [patch crc](https://vonmillhausen.github.io/sf2000/tools/biosCRC32Patcher.htm)  
 
-This uses the same screen as the gb300 so you must apply [this patch](https://github.com/tzubertowski/gb300_multicore/commit/0d8b553) when building multicore and all cores must be rebuilt.  
+This uses the same screen as the GB300 so you must apply [this patch](https://github.com/tzubertowski/gb300_multicore/commit/0d8b553) when building SF2000 multicore and all cores must be rebuilt.  
